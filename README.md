@@ -1,4 +1,4 @@
-# My-Mster-Degree-Thesis
+# My-Master-Degree-Thesis
 
 ## Abstract
 Population based optimization algorithms are powerful algorithms that can solve several types
